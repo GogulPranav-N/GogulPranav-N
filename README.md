@@ -56,16 +56,6 @@ Python Scikit-learn XGBoost Machine Learning
 
 ⸻
 
-🏥 Hospital Bed Demand Forecasting
-
-A deep-learning time-series forecasting system designed to predict future hospital bed demand from historical utilization patterns.
-
-Built using LSTM networks, sliding-window sequences, and normalized time-series data.
-
-Python TensorFlow / Keras LSTM Time Series
-
-⸻
-
 📈 Currently Learning
 
 I’m currently expanding beyond model development into production AI engineering — learning how to build APIs, containerize applications, work with cloud infrastructure, and design scalable AI systems.
